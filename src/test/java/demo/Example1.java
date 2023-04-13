@@ -18,6 +18,7 @@ public class Example1 {
 			n=n/10;
 		}
 		System.out.println(summ);
+		System.out.println("shyam");
 	}
 
 }
