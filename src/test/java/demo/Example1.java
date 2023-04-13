@@ -11,14 +11,14 @@ public class Example1 {
 //		}
 //		System.out.println(lastDigit+ " " +firstDigit);
 		
-		int summ=0;
+		int sum=0;
 		while(n!=0) {
 			int d=n%10;
-			summ=summ*10+d;
+			sum=sum*10+d;
 			n=n/10;
 		}
-		System.out.println(summ);
-		System.out.println("shyam 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");
+		System.out.println(sum+ "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");
+		
 	}
 
 }
