@@ -18,7 +18,7 @@ public class Example1 {
 			n=n/10;
 		}
 		System.out.println(summ);
-		System.out.println("shyam");
+		System.out.println("shyam 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");
 	}
 
 }
