@@ -17,7 +17,7 @@ public class Example1 {
 			sum=sum*10+d;
 			n=n/10;
 		}
-		System.out.println(sum+ "ghp_lEIa2cYef1KhZm9j9JAZoUF0MIxIRK3Fi1o");
+		System.out.println(sum+ "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");
 		
 	}
 
